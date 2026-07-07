@@ -1,0 +1,19 @@
+{
+  "brands": [
+    {
+      "slug": "editorial-research",
+      "name": "Editorial Research",
+      "path": "sources/brands/editorial-research",
+      "updated_at": "2026-07-02T00:00:00Z",
+      "notes": "Neutralized presentation templates and guidelines with Helvetica Neue regular defaults.",
+      "templates": {
+        "light": "sources/brands/editorial-research/templates/editorial-slides-template-light.pptx",
+        "dark": "sources/brands/editorial-research/templates/editorial-slides-template-dark.pptx"
+      },
+      "catalogs": {
+        "light": "sources/brands/editorial-research/layouts-light.json",
+        "dark": "sources/brands/editorial-research/layouts-dark.json"
+      }
+    }
+  ]
+}

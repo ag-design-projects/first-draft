@@ -1,0 +1,5 @@
+interface:
+  display_name: "First Draft"
+  short_description: "Turn research into branded narrative decks"
+  default_prompt: "Use $first-draft to turn my uploaded research and brand guidelines into storyboard options and branded presentation drafts."
+

@@ -1,0 +1,82 @@
+# Layout Catalog - editorial-slides-template-dark.pptx
+
+- Layouts: 75
+- Default font: Helvetica Neue Regular
+
+| ID | Name | Variant | Fallback only | Text slots | Bullets | Columns | Image | Hints |
+|---|---|---|---|---:|---:|---:|---|---|
+| slideLayout1 | TITLE | light | no | 4 | 5 | 2 | no | title |
+| slideLayout2 | TITLE_3 | light | no | 4 | 5 | 2 | no | title |
+| slideLayout3 | TITLE_3_1 | light | no | 4 | 5 | 2 | no | title |
+| slideLayout4 | TITLE_2 | light | no | 4 | 5 | 2 | no | title |
+| slideLayout5 | TITLE_2_1 | light | no | 4 | 5 | 2 | no | title |
+| slideLayout6 | TITLE_2_1_1 | light | no | 4 | 5 | 2 | no | title |
+| slideLayout7 | TITLE_2_1_1_1 | light | no | 2 | 5 | 1 | yes | title |
+| slideLayout8 | TITLE_2_1_1_1_1 | light | no | 3 | 5 | 1 | no | title |
+| slideLayout9 | TITLE_1 | light | no | 3 | 5 | 2 | no | title |
+| slideLayout10 | TITLE_1_1 | light | yes | 0 | 3 | 1 | no | title |
+| slideLayout11 | CUSTOM_1 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout12 | CUSTOM_1_2 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout13 | CUSTOM_1_2_1 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout14 | CUSTOM_1_1 | light | no | 7 | 5 | 2 | no | - |
+| slideLayout15 | CUSTOM_1_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout16 | CUSTOM_2 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout17 | CUSTOM_7 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout18 | CUSTOM_7_1 | light | no | 8 | 5 | 2 | no | - |
+| slideLayout19 | CUSTOM_7_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout20 | CUSTOM_7_1_1_2 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout21 | CUSTOM_7_1_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout22 | CUSTOM_7_1_1_1_1 | light | no | 2 | 3 | 1 | no | - |
+| slideLayout23 | CUSTOM_9 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout24 | CUSTOM_9_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout25 | CUSTOM_9_1_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout26 | CUSTOM_4 | light | no | 10 | 5 | 2 | no | - |
+| slideLayout27 | CUSTOM_4_2 | light | no | 8 | 5 | 2 | no | - |
+| slideLayout28 | CUSTOM_4_1 | light | no | 7 | 5 | 2 | no | - |
+| slideLayout29 | CUSTOM_4_1_2 | light | no | 7 | 5 | 2 | no | - |
+| slideLayout30 | CUSTOM_4_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout31 | CUSTOM_4_1_1_1 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout32 | CUSTOM_4_1_1_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout33 | CUSTOM_3 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout34 | CUSTOM_3_2 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout35 | CUSTOM_3_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout36 | CUSTOM_3_1_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout37 | CUSTOM_3_1_1_1 | light | no | 2 | 3 | 1 | no | - |
+| slideLayout38 | CUSTOM_3_1_1_1_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout39 | CUSTOM_3_1_1_1_1_1 | light | no | 3 | 5 | 1 | no | - |
+| slideLayout40 | CUSTOM_8 | light | no | 3 | 5 | 2 | no | - |
+| slideLayout41 | CUSTOM_8_2 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout42 | CUSTOM_11 | light | no | 3 | 5 | 2 | no | - |
+| slideLayout43 | CUSTOM_11_1 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout44 | CUSTOM_8_1 | light | no | 3 | 5 | 2 | no | - |
+| slideLayout45 | CUSTOM_8_1_1 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout46 | CUSTOM_8_1_1_2 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout47 | CUSTOM_8_1_1_2_2 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout48 | CUSTOM_8_1_1_2_1 | light | no | 8 | 5 | 2 | no | - |
+| slideLayout49 | CUSTOM_8_1_1_1 | light | no | 16 | 5 | 2 | no | - |
+| slideLayout50 | CUSTOM_8_1_1_1_1 | light | no | 18 | 5 | 2 | no | - |
+| slideLayout51 | CUSTOM_8_1_1_1_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout52 | CUSTOM_8_1_1_1_1_1_1 | light | no | 3 | 5 | 2 | no | - |
+| slideLayout53 | CUSTOM_8_1_1_1_1_1_1_1 | light | no | 3 | 5 | 2 | no | - |
+| slideLayout54 | CUSTOM_8_1_1_1_1_1_1_1_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout55 | CUSTOM_8_1_1_1_1_1_1_1_1_2 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout56 | CUSTOM_8_1_1_1_1_1_1_1_1_2_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout57 | CUSTOM_8_1_1_1_1_1_1_1_1_2_1_1 | light | no | 5 | 5 | 2 | no | - |
+| slideLayout58 | CUSTOM_8_1_1_1_1_1_1_1_1_1 | light | no | 2 | 3 | 1 | no | - |
+| slideLayout59 | CUSTOM_8_1_1_1_1_1_1_1_1_1_1 | light | no | 4 | 5 | 1 | no | - |
+| slideLayout60 | CUSTOM_8_1_1_1_1_1_1_1_1_1_1_1 | light | no | 3 | 3 | 1 | no | - |
+| slideLayout61 | CUSTOM_8_1_1_1_1_1_1_1_1_1_1_1_1 | light | no | 4 | 5 | 1 | no | - |
+| slideLayout62 | CUSTOM_8_1_1_1_1_1_1_1_1_1_1_1_1_1 | light | no | 6 | 5 | 2 | no | - |
+| slideLayout63 | CUSTOM_8_1_1_1_1_1_1_1_1_1_1_1_1_1_1 | light | no | 13 | 5 | 2 | no | - |
+| slideLayout64 | CUSTOM_5_1 | light | no | 13 | 5 | 2 | no | - |
+| slideLayout65 | CUSTOM_5_1_1 | light | no | 33 | 5 | 2 | no | - |
+| slideLayout66 | CUSTOM_10 | light | no | 2 | 5 | 1 | no | - |
+| slideLayout67 | CUSTOM_10_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout68 | CUSTOM_10_1_1 | light | no | 16 | 5 | 2 | no | - |
+| slideLayout69 | CUSTOM_10_1_1_1 | light | no | 17 | 5 | 2 | no | - |
+| slideLayout70 | CUSTOM_6 | light | no | 3 | 5 | 2 | yes | - |
+| slideLayout71 | CUSTOM_6_1 | light | no | 4 | 5 | 2 | no | - |
+| slideLayout72 | CUSTOM_8_1_1_1_1_1_2 | light | no | 7 | 5 | 2 | no | - |
+| slideLayout73 | CUSTOM_8_1_1_1_1_1_2_1 | light | no | 8 | 5 | 2 | no | - |
+| slideLayout74 | CUSTOM_8_1_1_1_1_1_2_1_1 | light | no | 14 | 5 | 2 | no | - |
+| slideLayout75 | CUSTOM_8_1_1_1_1_1_2_1_1_1 | light | no | 26 | 5 | 2 | no | - |
